@@ -1,0 +1,20 @@
+.EmployeeCard-Container{
+  display: flex;
+  .boxSearch{
+      padding: 50px 0 0 50px;
+  }
+  table{
+    margin: 0 auto;
+    tbody{
+        :hover{
+            background-color:rgb(214, 255, 255);
+        }
+        .employeeCardList-tr{
+            text-align: center;
+            
+        }
+    }
+}
+
+}
+
